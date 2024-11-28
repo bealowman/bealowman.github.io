@@ -1,4 +1,3 @@
-theme: MINIMAL
 # Welcome to My Portfolio
 
 Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.
