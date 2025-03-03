@@ -12,7 +12,7 @@ Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passiona
 - [MIND Magazine Article](https://neurotech.studentorg.berkeley.edu/MIND_F23.pdf) - Breaking down the bidirectional relationship between mental and physical health, exploring EEG-Guided Meditation as a mental-health tool.
 
 ## Résumé
-[View My Résumé](file:///Users/beatricelowman/Downloads/Lowman_Beatrice_Resume.docx.pdf)
+[View My Résumé](file:///Users/beatricelowman/Downloads/Lowman_Beatrice_Resume_03_03_2025.docx%20(1).pdf)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/beatrice-lowman/)
