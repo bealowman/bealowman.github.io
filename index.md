@@ -1,6 +1,13 @@
-# Welcome to My Portfolio
+<div style="display: flex; align-items: center;">
 
-Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.
+  <img src="https://github.com/bealowman/bealowman.github.io/raw/main/headshot.jpeg" alt="Beatrice Lowman" style="margin-right: 20px; width: 150px; border-radius: 50%;">
+
+  <div>
+    <h1>Welcome to My Portfolio</h1>
+    <p>Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.</p>
+  </div>
+
+</div>
 
 ## Projects
 - **U-Net FCN MRI Tumor Classification**
@@ -17,6 +24,3 @@ Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passiona
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/beatrice-lowman/)
 - Email: bealowman@berkeley.edu
-
-![Beatrice Lowman](https://github.com/bealowman/bealowman.github.io/raw/main/headshot.jpeg){: style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;"}
-
