@@ -18,4 +18,5 @@ Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passiona
 - [LinkedIn](https://www.linkedin.com/in/beatrice-lowman/)
 - Email: bealowman@berkeley.edu
 
-![Beatrice Lowman](https://github.com/bealowman/bealowman.github.io/edit/main/index.md#:~:text=Headshot_05%2D02%2D-,2025,-%2D18%2D59%2D10){: style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;"}
+![Beatrice Lowman](https://github.com/bealowman/bealowman.github.io/raw/main/headshot.jpeg){: style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;"}
+
