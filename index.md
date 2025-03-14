@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: flex-start;">
 
-  <img src="https://github.com/bealowman/bealowman.github.io/raw/main/headshot.jpeg" alt="Beatrice Lowman" style="margin-right: 100px; width: 280px; border-radius: 50%;">
+  <img src="https://github.com/bealowman/bealowman.github.io/raw/main/headshot.jpeg" alt="Beatrice Lowman" style="margin-right: 40; width: 180px; border-radius: 50%;">
 
   <div>
     <h1>Welcome to My Portfolio</h1>
