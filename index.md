@@ -1,13 +1,12 @@
-<div style="display: flex; align-items: flex-start;">
+# Beatrice Lowman
+[View My GitHub Profile](https://github.com/bealowman)
 
-  <img src="https://github.com/bealowman/bealowman.github.io/raw/main/headshot.jpeg" alt="Beatrice Lowman" style="margin-right: 40; width: 180px; border-radius: 50%;">
+<!-- Profile Image aligned left, under name and GitHub link -->
+<img src="https://github.com/bealowman/bealowman.github.io/raw/main/headshot.jpeg" alt="Beatrice Lowman" style="display: block; margin-left: 0; width: 180px; border-radius: 50%; margin-top: 10px; margin-bottom: 40px;">
 
-  <div>
-    <h1>Welcome to My Portfolio</h1>
-    <p>Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.</p>
-  </div>
+# Welcome to My Portfolio
 
-</div>
+Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.
 
 ## Projects
 - **U-Net FCN MRI Tumor Classification**
