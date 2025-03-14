@@ -1,9 +1,3 @@
-# Beatrice Lowman
-[View My GitHub Profile](https://github.com/bealowman)
-
-<!-- Profile Image aligned left, under name and GitHub link -->
-<img src="https://github.com/bealowman/bealowman.github.io/raw/main/headshot.jpeg" alt="Beatrice Lowman" style="display: block; margin-left: 0; width: 180px; border-radius: 50%; margin-top: 10px; margin-bottom: 40px;">
-
 # Welcome to My Portfolio
 
 Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.
