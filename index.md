@@ -1,11 +1,3 @@
-<table style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <img src="assets/headshot.jpg" alt="Beatrice Lowman" 
-           style="width:200px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
-    </td>
-    <td style="vertical-align: top;">
-      
 # Welcome to My Portfolio
 
 Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.
