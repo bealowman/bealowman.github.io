@@ -3,6 +3,20 @@
 Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.
 
 
+## Work Experience
+- Fall 2025: AI UX Intern for Google DeepMind (contract position)
+  - Deliverables and details under NDA, methodology and skills summarized below:
+  - Backend for AI product prototype / proof of concept
+  - Participant-facing user research
+    - Study design, participant sessions, user feedback data collection and analysis
+- Spring - Summer 2025: Cognitive Engineering Intern for Xiberlinc Inc.
+  - Deliverables and details under NDA, methodology and skills summarized below:
+  - Backend for noninvasive BCI product focused on emotional wellbeing and cogntive enhancement
+  - Multimodal data pipeline construction, ML model implementation and optimization
+ 
+## Research Experience
+- Fall 2024 - Spring 2025: Research Assistant in the UC Berkeley CALM Lab
+  - Worked under Dr. Sheri Johnson to research emotion-related impulsivity and implement computerized tasks for strengthening emotion regulation. 
 
 ## Projects
 - **Brain to Text**
