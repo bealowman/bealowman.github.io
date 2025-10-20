@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: left; gap: 20px;">
 
   <img src="IMG_1663.JPG" alt="Beatrice Lowman" 
        style="width:180px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
