@@ -4,12 +4,12 @@ Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passiona
 
 
 ## Work Experience
-- Fall 2025: AI UX Intern for Google DeepMind (contract position)   
+- Fall 2025: AI UX Intern for Google DeepMind (contract position)\
 *Details under NDA, methodology and skills summarized below:*
   - Backend for AI product prototype / proof of concept
   - Participant-facing user research
     - Study design, participant sessions, user feedback data collection and analysis   
-- Spring - Summer 2025: Cognitive Engineering Intern for Xiberlinc Inc.
+- Spring - Summer 2025: Cognitive Engineering Intern for Xiberlinc Inc.\
 *Details under NDA, methodology and skills summarized below:*
   - Backend for noninvasive BCI product focused on emotional wellbeing and cogntive enhancement
   - Multimodal data pipeline construction, ML model implementation and optimization
