@@ -33,7 +33,7 @@ Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passiona
 - [MIND Magazine Article](https://neurotech.studentorg.berkeley.edu/MIND_F23.pdf) - Exploring holistic health and EEG-Guided Meditation.
 
 ## Résumé
-[View My Résumé](https://github.com/bealowman/bealowman.github.io/raw/main/Lowman_Beatrice_Resume_03_13_25.docx.jpg)
+[View My Résumé](https://github.com/bealowman/bealowman.github.io/raw/main/Lowman_Beatrice_Resume_10_08_25.jpg)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/beatrice-lowman/)
