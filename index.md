@@ -1,41 +1,39 @@
 # Welcome to My Portfolio
 
-Hello! I'm a Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.
+Hello! I'm a graduating Cognitive Science and Data Science student at UC Berkeley, passionate about neurotech, healthtech, and innovations that improve lives and uplift communities.
 
-
-## Work Experience
-- **Fall 2025: AI UX Intern for Google DeepMind (contract position)**\
-*Details under NDA, methodology and skills summarized below:*
-  - Backend for AI product prototype / proof of concept
-  - Participant-facing user research
-    - Study design, participant sessions, user feedback data collection and analysis   
-- **Spring - Summer 2025: Cognitive Engineering Intern for Xiberlinc**\
-*Details under NDA, methodology and skills summarized below:*
-  - Backend for noninvasive BCI product focused on emotional wellbeing and cogntive enhancement
-  - Multimodal data pipeline construction, ML model implementation and optimization
- 
-## Research Experience
-- Fall 2024 - Spring 2025: Research Assistant in the UC Berkeley CALM Lab
-  - Worked under Dr. Sheri Johnson to research emotion-related impulsivity and implement computerized tasks for strengthening emotion regulation. 
+Descriptions, posters, and code repos for all my projects are listed here. To view my work and research experiences, see my resume, CV, or LinkedIn below.
 
 ## Projects
-- **Brain to Text**
-  - [Working Git Repo](https://github.com/bealowman/brain-to-text-working) - Decode speech from iEEG using neural networks and language models for the Kaggle Brain-to-Text Competition 2025.
-- **Music Reconstruction**
-   - [Working Git Repo](https://github.com/bealowman/music-reconstruction-working) - Replicate and build on [Bellier et al. (2023)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002176), where audio spectrograms are reconstructed from iEEG signals.
+- **Early Dementia Detection from MRI**
+  - Trained MedViT-2 — a hybrid CNN-Transformer architecture — for four-class dementia stage classification from neuroimaging data, the first evaluation of MedViT on neuroimaging tasks
+  - Model achieved F1 scores >99% across all classes with overall accuracy >99%, outperformed existing baselines in early dementia stages
+  - [Poster for California Neurotechnology Conference 2026](ntech_conference_poster.jpg)
+  - [Git Repo](https://github.com/bealowman/brain-to-text-working) 
+- **Brain to Text Speech Decoding**
+  - Decoded intracranial EEG signals from an ALS patient into intended sentences using an RNN-GRU + N-Gram + LLM rescoring pipeline
+  - Engineered optimizations including temporal masking, diphone lexicon, rebuilt CTC decoding, RNNT loss, and Cold Fusion LLM integrating phoneme embeddings with LLaMA 3.3 hidden states
+  - [Poster for Neurotech@Berkeley Symposium](ntech_conference_poster.jpg)
+  - [Git Repo](https://github.com/bealowman/brain-to-text-working) 
+- **Music Reconstruction from iEEG**
+  - Replicated [Bellier et al. (2023)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002176), where audio spectrograms are reconstructed from iEEG signals during music-listening sessions.
+   - [Poster for Neurotech@Berkeley Symposium](ntech_conference_poster.jpg)
+   - [Git Repo](https://github.com/bealowman/music-reconstruction-working)
 - **Computer Vision for Tumor Detection**
+  - Segment 3D MRI scans using a U-NET FCN to identify brain tumors and other critical regions.
   - [Poster for California Neurotechnology Conference 2025](ntech_conference_poster.jpg)
   - [Git Repo](https://github.com/neurotech-berkeley/computer-vision-tumor-detection)
-  - Segment 3D MRI scans using a U-NET FCN to identify brain tumors.
-- [NeuroTalk Podcast Episode](https://open.spotify.com/episode/11FaSkpjikXlh6dczcasaY?si=e7f978b079b64627) - A discussion of Neurotech@Berkeley's EEG-driven generative art model.
+
 
 ## Publications
 - [MIND Magazine Article](https://neurotech.studentorg.berkeley.edu/MIND_F23.pdf) - Exploring holistic health and EEG-Guided Meditation.
+- [NeuroTalk Podcast Episode](https://open.spotify.com/episode/11FaSkpjikXlh6dczcasaY?si=e7f978b079b64627) - A discussion of Neurotech@Berkeley's EEG-driven generative art model.
 
-## Résumé
-[View My Résumé](https://github.com/bealowman/bealowman.github.io/raw/main/Lowman_Beatrice_Resume_10_08_25.jpg)
+## Detailed Experiences
+[View My Resume](https://github.com/bealowman/bealowman.github.io/raw/main/Lowman_Beatrice_Resume_10_08_25.jpg)
+[View My CV](https://github.com/bealowman/bealowman.github.io/raw/main/Lowman_Beatrice_Resume_10_08_25.jpg)
+[LinkedIn](https://www.linkedin.com/in/beatrice-lowman/)
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/beatrice-lowman/)
 - Email: bealowman@berkeley.edu
 
