@@ -9,15 +9,15 @@ Descriptions, posters, and code repos for all my projects are listed here. To vi
   - Trained MedViT-2 — a hybrid CNN-Transformer architecture — for four-class dementia stage classification from neuroimaging data, the first evaluation of MedViT on neuroimaging tasks
   - Model achieved F1 scores >99% across all classes with overall accuracy >99%, outperformed existing baselines in early dementia stages
   - [Poster for California Neurotechnology Conference 2026](dementia_detection_poster.pptx.pdf)
-  - [Git Repo](https://github.com/bealowman/brain-to-text-working) 
+  - [Git Repo](https://github.com/bealowman/alzheimers-detection-working)
 - **Brain to Text Speech Decoding**
   - Decoded intracranial EEG signals from an ALS patient into intended sentences using an RNN-GRU + N-Gram + LLM rescoring pipeline
   - Engineered optimizations including temporal masking, diphone lexicon, rebuilt CTC decoding, RNNT loss, and Cold Fusion LLM integrating phoneme embeddings with LLaMA 3.3 hidden states
-  - [Poster for Neurotech@Berkeley Symposium](ntech_conference_poster.jpg)
+  - [Poster for Neurotech@Berkeley Symposium]()
   - [Git Repo](https://github.com/bealowman/brain-to-text-working) 
 - **Music Reconstruction from iEEG**
   - Replicated [Bellier et al. (2023)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002176), where audio spectrograms are reconstructed from iEEG signals during music-listening sessions.
-   - [Poster for Neurotech@Berkeley Symposium](ntech_conference_poster.jpg)
+   - [Poster for Neurotech@Berkeley Symposium](NTAB_Music_Reconstruction_poster.pdf)
    - [Git Repo](https://github.com/bealowman/music-reconstruction-working)
 - **Computer Vision for Tumor Detection**
   - Segment 3D MRI scans using a U-NET FCN to identify brain tumors and other critical regions.
@@ -30,8 +30,8 @@ Descriptions, posters, and code repos for all my projects are listed here. To vi
 - [NeuroTalk Podcast Episode](https://open.spotify.com/episode/11FaSkpjikXlh6dczcasaY?si=e7f978b079b64627) - A discussion of Neurotech@Berkeley's EEG-driven generative art model.
 
 ## Detailed Experiences
-[View My Resume](https://github.com/bealowman/bealowman.github.io/raw/main/Lowman_Beatrice_Resume_10_08_25.jpg)
-[View My CV](https://github.com/bealowman/bealowman.github.io/raw/main/Lowman_Beatrice_Resume_10_08_25.jpg)
+[View My Resume](Beatrice_Lowman_Resume_04_28_26.pdf)
+[View My CV](Beatrice)
 [LinkedIn](https://www.linkedin.com/in/beatrice-lowman/)
 
 ## Contact
