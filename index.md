@@ -8,7 +8,7 @@ Descriptions, posters, and code repos for all my projects are listed here. To vi
 - **Early Dementia Detection from MRI**
   - Trained MedViT-2 — a hybrid CNN-Transformer architecture — for four-class dementia stage classification from neuroimaging data, the first evaluation of MedViT on neuroimaging tasks
   - Model achieved F1 scores >99% across all classes with overall accuracy >99%, outperformed existing baselines in early dementia stages
-  - [Poster for California Neurotechnology Conference 2026](ntech_conference_poster.jpg)
+  - [Poster for California Neurotechnology Conference 2026](dementia_detection_poster.pptx.pdf)
   - [Git Repo](https://github.com/bealowman/brain-to-text-working) 
 - **Brain to Text Speech Decoding**
   - Decoded intracranial EEG signals from an ALS patient into intended sentences using an RNN-GRU + N-Gram + LLM rescoring pipeline
