@@ -13,7 +13,7 @@ Descriptions, posters, and code repos for all my projects are listed here. To vi
 - **Brain to Text Speech Decoding**
   - Decoded intracranial EEG signals from an ALS patient into intended sentences using an RNN-GRU + N-Gram + LLM rescoring pipeline
   - Engineered optimizations including temporal masking, diphone lexicon, rebuilt CTC decoding, RNNT loss, and Cold Fusion LLM integrating phoneme embeddings with LLaMA 3.3 hidden states
-  - [Poster for Neurotech@Berkeley Symposium]()
+  - [Poster for Neurotech@Berkeley Symposium](BTT_Poster.pdf)
   - [Git Repo](https://github.com/bealowman/brain-to-text-working) 
 - **Music Reconstruction from iEEG**
   - Replicated [Bellier et al. (2023)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002176), where audio spectrograms are reconstructed from iEEG signals during music-listening sessions.
@@ -31,7 +31,7 @@ Descriptions, posters, and code repos for all my projects are listed here. To vi
 
 ## Detailed Experiences
 [View My Resume](Beatrice_Lowman_Resume_04_28_26.pdf)
-[View My CV](Beatrice)
+[View My CV](Beatrice_Lowman_CV.pdf)
 [LinkedIn](https://www.linkedin.com/in/beatrice-lowman/)
 
 ## Contact
